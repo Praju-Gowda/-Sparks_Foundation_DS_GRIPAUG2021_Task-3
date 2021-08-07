@@ -8,9 +8,9 @@
 
 #Dataset link: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
-#youtube link:
+#youtube link:https://youtu.be/XZLfYxJAQLw
 
-#linkdin post link:
+#linkdin post link:https://www.linkedin.com/posts/prajwal-m-s-449114185_task3-gripaug21-august2021-activity-6829717310090178560-Jtwg
 
 #snapshot:
 
